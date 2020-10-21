@@ -4,12 +4,12 @@ This is a repository of code and validation data for paper [A novel probability 
 
 The description of folder.
 
-1, code: Running BATCH_ALL.py will automatically complete the data preprocessing, model training, comparison method calculations and result statistics, and save the results of the 10-fold cross validation in the result folder.
+1, code: running BATCH_ALL.py will automatically complete the data pre-processing, model training, comparison method calculations and result statistics, and save the results of the 10-fold cross validation in the result folder.
 
-2, data: Storage of raw validation data for Case 1 and Case 2.
+2, data: storage of raw validation data for Case 1 and Case 2.
 
-3, Trained PCCNN models that can be used for direct testing.
+3, model: trained PCCNN models that can be used for direct testing.
 
-4, Storage of the result of 10-fold cross-validation, including the proposed and comparison methods.
+4, result: storage of the result of 10-fold cross-validation, including the proposed and comparison methods.
 
 If you have any questions, do not hesitate to contact me.
