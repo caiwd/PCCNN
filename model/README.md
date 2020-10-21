@@ -10,5 +10,3 @@ Extraction code: 1hyj
 3. Experiment_time(0) represents 1st experiment of ten-fold cross validation.
 
 4. 'A'~'F' represents dataset A ~ dataset F in the paper.
-
-If you have any questions, do not hesitate to contact me, my email address is caiweidon@qq.com.

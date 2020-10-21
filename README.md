@@ -3,10 +3,10 @@
 This is a repository of code and validation data for paper [A novel probability confidence CNN model and its application in mechanical fault diagnosis].
 
 The description of folder as follow.
-1. code: running BATCH_ALL.py will automatically complete the data pre-processing, model training, comparison method calculations and result statistics, and save the results of the 10-fold cross validation in the result folder.
-2. data: storage of raw validation data for Case I and Case II.
+1. code: running BATCH_ALL.py will automatically complete the data pre-processing, model training, comparison method calculations and result statistics, and save the results of the ten-fold cross validation in the result folder.
+2. data: raw validation data for Case I and Case II.
 3. model: trained PCCNN models that can be used for direct testing.
-4. result: storage of the result of 10-fold cross-validation, including the proposed and comparison methods.
+4. result: the result of ten-fold cross-validation, including the proposed and comparison methods.
 
 Required python and python libraries as follow.
 1. python==3.7.9.
@@ -19,4 +19,8 @@ Required python and python libraries as follow.
 8. pandas==1.1.1.
 9. openpyxl==3.0.5.
 
-If you have any questions, do not hesitate to contact me, my email address is caiweidon@qq.com.
+The raw data file and trained model files are too large, and has been uploaded to network drive as follows.
+Network drive url: https://pan.baidu.com/s/1Iyw_B4X96mRaWuBWckQl9A
+Extraction code: 1hyj
+
+Please do not hesitate to contact me if you have any queries, my email address is caiweidon@qq.com.
