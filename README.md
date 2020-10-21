@@ -1,3 +1,3 @@
 # PCCNN
 
-The code will be available when the paper <A novel probability confidence CNN model and its application in mechanical fault diagnosis> is accepted.
+This is a repository of code and validation data for paper <A novel probability confidence CNN model and its application in mechanical fault diagnosis>
