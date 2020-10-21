@@ -23,4 +23,4 @@ The raw data file and trained model files are too large, and has been uploaded t
 Network drive url: https://pan.baidu.com/s/1Iyw_B4X96mRaWuBWckQl9A
 Extraction code: 1hyj
 
-Please do not hesitate to contact me if you have any queries, my email address is caiweidon@qq.com.
+Please do not hesitate to contact me if you have any queries, my e-mail address is caiweidon@qq.com.
