@@ -6,7 +6,7 @@ The description of folder:
 
 1. code: running BATCH_ALL.py will automatically complete the data pre-processing, model training, comparison method calculations and result statistics, and save the results of the 10-fold cross validation in the result folder.
 
-2. data: storage of raw validation data for Case 1 and Case 2.
+2. data: storage of raw validation data for Case I and Case II.
 
 3. model: trained PCCNN models that can be used for direct testing.
 
