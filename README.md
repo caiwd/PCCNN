@@ -18,6 +18,8 @@ Required python and python libraries as follow.
 7. cvxopt==1.2.5.
 8. pandas==1.1.1.
 9. openpyxl==3.0.5.
+10.pywavelet==0.1.1.
+11.matplotlib==2.2.5.
 
 The raw data file and trained model files are too large, and has been uploaded to network drive as follows.
 Network drive url: https://pan.baidu.com/s/1Iyw_B4X96mRaWuBWckQl9A
