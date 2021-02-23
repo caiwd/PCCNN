@@ -23,9 +23,9 @@ Required python and python libraries as follow.
 12. openpyxl==3.0.5
 13. cvxopt==1.2.5
 
-The raw data file and trained model files are too large, and has been uploaded to network drive as follows.
-Network drive url: https://pan.baidu.com/s/1Iyw_B4X96mRaWuBWckQl9A
-Extraction code: 1hyj
+The raw data file, trained model files and log files has been uploaded to network drive as follows.
+Network drive url: https://pan.baidu.com/s/1EF3pzDWTmjUKRD4tgh_drQ
+Extraction code: wz8e
 
 Please do not hesitate to contact me if you have any queries, my e-mail address is caiweidon@qq.com.
 
