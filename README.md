@@ -29,4 +29,4 @@ Extraction code: wz8e
 
 Please do not hesitate to contact me if you have any queries, my e-mail address is hanym@mail.buct.edu.cn.
 
-/The code will be open sourced after the paper is accepted/
+/The code will be open sourced after the paper is accepted. MAJOR REVISION NOW/
