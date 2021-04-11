@@ -1,6 +1,6 @@
 # PCCNN
 
-This is a repository of code and validation data for paper [A novel probability confidence CNN model and its application in mechanical fault diagnosis].(MAJOR REVISION NOW)
+This is a repository of code and validation data for paper [A novel probability confidence CNN model and its application in mechanical fault diagnosis].
 
 The description of folder as follow.
 1. code: running BATCH_ALL.py will automatically complete the data pre-processing, model training, comparison method calculations and result statistics, and save the results of the ten-fold cross validation in the result folder.
@@ -29,4 +29,4 @@ Extraction code: wz8e
 
 Please do not hesitate to contact me if you have any queries, my e-mail address is hanym@mail.buct.edu.cn.
 
-/The code will be open sourced after the paper is accepted. MAJOR REVISION NOW/
+/The code will be open sourced after the paper is accepted. CURRENT STATUS：MAJOR REVISION/
