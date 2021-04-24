@@ -4,9 +4,8 @@ This is a repository of code and validation data for paper [A novel probability 
 
 The description of folder as follow.
 1. code: running BATCH_ALL.py will automatically complete the data pre-processing, model training, comparison method calculations and result statistics, and save the results of the ten-fold cross validation in the result folder.
-2. data: raw validation data for Case I and Case II.
-3. model: trained PCCNN models that can be used for direct testing.
-4. result: the result of ten-fold cross-validation, including the proposed and comparison methods.
+2. model: trained PCCNN models that can be used for direct testing.
+3. result: the result of ten-fold cross-validation, including the proposed and comparison methods.
 
 Required python and python libraries as follow.
 1. python==3.7.9.
@@ -20,7 +19,7 @@ Required python and python libraries as follow.
 9. openpyxl==3.0.5.
 
 The raw data file and trained model files are too large, and has been uploaded to network drive as follows.
-Network drive url: https://pan.baidu.com/s/1Iyw_B4X96mRaWuBWckQl9A
-Extraction code: 1hyj
+Network drive url: https://pan.baidu.com/s/1EF3pzDWTmjUKRD4tgh_drQ
+Extraction code: wz8e
 
 Please do not hesitate to contact me if you have any queries, my e-mail address is caiweidon@qq.com.

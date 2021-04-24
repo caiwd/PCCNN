@@ -1,0 +1,16 @@
+import shutil
+shutil.copytree('../data/Bearing/raw/A', '../data/Bearing/raw/B')
+shutil.copytree('../data/Bearing/raw/A', '../data/Bearing/raw/C')
+shutil.copytree('../data/Bearing/raw/D', '../data/Bearing/raw/E')
+shutil.copytree('../data/Bearing/raw/D', '../data/Bearing/raw/F')
+shutil.copytree('../data/Bearing/raw/G', '../data/Bearing/raw/H')
+shutil.copytree('../data/Bearing/raw/G', '../data/Bearing/raw/I')
+shutil.copytree('../data/Bearing/raw/O', '../data/Bearing/raw/P')
+shutil.copytree('../data/Bearing/raw/Q', '../data/Bearing/raw/R')
+shutil.copytree('../data/Gearbox/raw/J', '../data/Gearbox/raw/K')
+shutil.copytree('../data/Bearing/raw/J', '../data/Gearbox/raw/L')
+shutil.copytree('../data/Gearbox/raw/J', '../data/Gearbox/raw/L_0')
+shutil.copytree('../data/Rotating/raw/M', '../data/Rotating/raw/N')
+shutil.copytree('../data/Rotating/raw/M', '../data/Rotating/raw/N_0')
+
+print('Completed!')
