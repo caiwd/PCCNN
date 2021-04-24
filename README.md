@@ -29,6 +29,6 @@ The raw data file, trained model files and log files has been uploaded to networ
 Network drive url: https://pan.baidu.com/s/1EF3pzDWTmjUKRD4tgh_drQ
 Extraction code: wz8e
 
-Please do not hesitate to contact me if you have any queries, my e-mail address is hanym@mail.buct.edu.cn.
+Please do not hesitate to contact me if you have any queries, my e-mail address is caiweidon@qq.com.
 
 /The code will be open sourced after the paper is accepted. CURRENT STATUS：ACCEPT/
