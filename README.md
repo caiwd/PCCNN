@@ -4,6 +4,8 @@ This is a repository of code and validation data for paper [A novel probability 
 
 Publication: IEEE Transactions on Instrumentation & Measurement
 
+DOI: 10.1109/TIM.2021.3077965
+
 The description of folder as follow.
 1. code: running BATCH_ALL.py will automatically complete the data pre-processing, model training, comparison method calculations and result statistics, and save the results of the ten-fold cross validation in the result folder.
 2. data: raw validation data for 20 Datasets A~Q.
@@ -30,5 +32,3 @@ Network drive url: https://pan.baidu.com/s/1EF3pzDWTmjUKRD4tgh_drQ
 Extraction code: wz8e
 
 Please do not hesitate to contact me if you have any queries, my e-mail address is caiweidon@qq.com.
-
-/The code will be open sourced after the paper is accepted. CURRENT STATUS：ACCEPT/
